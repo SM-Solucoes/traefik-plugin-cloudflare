@@ -1,4 +1,4 @@
-module github.com/agence-gaya/traefik-plugin-cloudflare
+module github.com/SM-Solucoes/traefik-plugin-cloudflare
 
 go 1.17
 
